@@ -1,0 +1,104 @@
+﻿  ConsoleApplication1.cpp
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(12,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(13,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(13,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(13,7): error C2065: eax: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(15,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(15,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cl"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(15,7): error C2065: cl: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(16,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(16,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bx"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(16,7): error C2065: bx: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(17,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(17,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dl"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(17,7): error C2065: dl: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(20,3): error C2065: lea: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(20,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(20,7): error C2065: esi: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(23,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(23,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(23,7): error C2065: al: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(23,16): error C2760: синтаксическая ошибка: непредвиденный элемент ";". Ожидается "{"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(25,3): error C2065: cmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(25,7): error C2146: синтаксическая ошибка: отсутствие "," перед идентификатором "al"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(26,3): error C2065: je: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(26,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(26,6): error C2065: end: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(28,3): error C2065: cmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(28,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(28,7): error C2065: al: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(29,3): error C2065: je: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(29,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "divide"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(29,6): error C2065: divide: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(31,3): error C2065: cmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(31,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(31,7): error C2065: al: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(32,3): error C2065: je: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(32,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add_sh"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(32,6): error C2065: add_sh: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(34,3): error C2065: cmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(34,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(34,7): error C2065: al: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(35,3): error C2065: je: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(35,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add_a"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(35,6): error C2065: add_a: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(37,3): error C2065: cmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(37,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(37,7): error C2065: al: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(38,3): error C2065: je: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(38,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add_l"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(38,6): error C2065: add_l: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(40,3): error C2065: jmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(40,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "skip"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(40,7): error C2065: skip: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(44,3): error C2065: inc: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(44,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(44,7): error C2065: esi: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(45,3): error C2065: jmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(45,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "reading"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(45,7): error C2065: reading: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(49,3): error C2065: inc: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(49,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(49,7): error C2065: esi: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(50,3): error C2065: cmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(50,7): error C2065: esi: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(51,3): error C2065: jne: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(51,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "skip"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(51,7): error C2065: skip: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(53,3): error C2065: cmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(53,7): error C2065: esi: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(54,3): error C2065: je: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(54,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(54,6): error C2065: end: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(56,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(56,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cl"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(56,7): error C2065: cl: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(57,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(57,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bx"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(57,7): error C2065: bx: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(58,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(58,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dl"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(58,7): error C2065: dl: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(59,3): error C2065: jmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(59,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "reading"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(59,7): error C2065: reading: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(61,3): error C2065: inc: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(61,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(61,7): error C2065: esi: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(62,3): error C2065: cmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(62,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cl"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(62,7): error C2065: cl: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(63,3): error C2065: je: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(63,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check_a"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(63,6): error C2065: check_a: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(64,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(64,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cl"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(64,7): error C2065: cl: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(65,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(65,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bx"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(65,7): error C2065: bx: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(66,3): error C2065: mov: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(66,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dl"
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(66,7): error C2065: dl: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(67,3): error C2065: jmp: необъявленный идентификатор
+D:\!Programming\VSSiNP\lab_4\ConsoleApplication1\ConsoleApplication1.cpp(67,3): error C1003: число ошибок превышает 100; остановка компиляции

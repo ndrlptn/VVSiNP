@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\!Programming\VSSiNP\lab_3\ConsoleApplication1\ConsoleApplication1.cpp(21,2): warning C4102: Lower: неиспользованная метка
+D:\!Programming\VSSiNP\lab_3\ConsoleApplication1\ConsoleApplication1.cpp(35,2): warning C4102: ifOdd: неиспользованная метка
+  ConsoleApplication1.vcxproj -> D:\!Programming\VSSiNP\lab_3\ConsoleApplication1\Debug\ConsoleApplication1.exe
